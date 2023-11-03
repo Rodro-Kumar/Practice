@@ -60,7 +60,7 @@ img {
 }
 
 /* Common css End */
-
+/* ============== Card sec css start ======================*/
 .card-main {
   background-color: var(--white);
   width: 605px;
@@ -363,3 +363,4 @@ button:hover {
   border: 2px solid var(--summary-Btn-Color);
   color: var(--summary-Btn-Color);
 }
+/* ============== Card sec css End ======================*/
