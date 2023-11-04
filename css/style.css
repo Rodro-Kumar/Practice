@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: var(--summary-Btn-Color);
+  background-color: white;
 }
 
 li,
@@ -81,6 +81,7 @@ img {
   align-items: center;
   display: flex;
   overflow: hidden;
+  flex-direction: row-reverse;
 }
 
 .part-1 {
